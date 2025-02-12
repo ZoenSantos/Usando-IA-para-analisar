@@ -11,5 +11,5 @@ Para fazer com que a implantação funcione se recomenda seguir o seguinte víde
 ### scikit-learn para fazer a IA ser criada e funcionar
 ### pandas para poder analisar o banco de dados 
 
-#Objetivo do projeto
-###A ideia inicial do projeto foi tentar resolver uma situação que uma empresa ficticia tinha dado um problema de muitos clientes estarem cancelando suas assinaturas e isso estava causando uma perda monetária na empresa então realizamos várias tarefas para descobrir o porque de tantos cancelamentos após descobrir isso foi se criar uma IA para ela facilitar a nossa escolha para saber como diminuir os cancelamentos, para isso testamos dois tipos de IA a IA Random Florest Classifier e K Neighbors Classifier fiz isso para ver qual seria a melhor IA para essa situação
+# Objetivo do projeto
+### A ideia inicial do projeto foi tentar resolver uma situação que uma empresa ficticia tinha dado um problema de muitos clientes estarem cancelando suas assinaturas e isso estava causando uma perda monetária na empresa então realizamos várias tarefas para descobrir o porque de tantos cancelamentos após descobrir isso foi se criar uma IA para ela facilitar a nossa escolha para saber como diminuir os cancelamentos, para isso testamos dois tipos de IA a IA Random Florest Classifier e K Neighbors Classifier fiz isso para ver qual seria a melhor IA para essa situação
